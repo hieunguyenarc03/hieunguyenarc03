@@ -1,6 +1,6 @@
 # Hi, I'm (Henry) Hieu Nguyen :wave:
 
-:sparkles: Cinephile with a heart for novels, a mind sharpened by chess, a spirit lifted by badminton, and a soul soothed by cats — ever learning, ever evolving. :sparkles:
+:sparkles: **Cinephile with a heart for novels, a mind sharpened by chess, a spirit lifted by badminton, and a soul soothed by cats — ever learning, ever evolving.** :sparkles:
 
 ## An Open Chess Tournament
 
