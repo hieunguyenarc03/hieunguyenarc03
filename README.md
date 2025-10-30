@@ -1,32 +1,39 @@
-# Chess Tournament
+# Hi, I'm (Henry) Hieu Nguyen :wave:
 
-This is an open chess tournament where ANYONE can play. That's the fun part.  
-It's your turn to play! Move a <!-- BEGIN TURN --><!-- END TURN --> piece.
+:sparkles:Cinephile with a heart for novels, a mind sharpened by chess, a spirit lifted by badminton, and a soul soothed by cats — ever learning, ever evolving.:sparkles:
+
+## An Open Chess Tournament
+
+This is more than a tournament — it’s a celebration of every curious mind.
+Now step into the game. Move your <!-- BEGIN TURN --><!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
 <!-- END CHESS BOARD -->
 
-**It's your turn to move! Choose one from the following table**
+**Your move awaits. Choose your piece from the table below.**
 <!-- BEGIN MOVES LIST -->
 <!-- END MOVES LIST -->
 
-Having fun? Ask a friend to do the next move!
-
-#### How it works
-
-When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
-
-Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/hieunguyenarc03/hieunguyenarc03/issues) and I will try to fix it as soon as possible :D
-
+Delight in the play, then let a friend carry the next move forward.
 
 <details>
-  <summary>Last 5 moves in this game</summary>
+  <summary>The Last 5 Steps of This Match</summary>
 <!-- BEGIN LAST MOVES -->
 <!-- END LAST MOVES -->
 </details>
 
 <details>
-  <summary>Top 10 most moves across all games</summary>
+  <summary>The 10 Most Played Paths Across All Games</summary>
 <!-- BEGIN TOP MOVES -->
 <!-- END TOP MOVES -->
 </details>
+
+### How it works
+
+With a single click, your move travels through code — a GitHub Action springs to life, guiding a Python script that moves the piece, rewrites this README, and seals it all in a new commit.
+
+### Credit
+This open chess tournament is built upon the work of [Marc](https://github.com/marcizhu) - adapted and reimagined with gratitude.
+If you’re curious about how the board works or wish to create your own, visit his GitHub page.
+
+Chess piece images are sourced from the [Lichess repository](https://github.com/lichess-org/lila/tree/master/public/piece).
