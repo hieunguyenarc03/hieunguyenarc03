@@ -40,8 +40,7 @@ Chess piece images are sourced from the [Lichess repository](https://github.com/
 
 ## More information about me
 <details>
-  <summary>...</summary> 
+  <summary>&#8203;</summary>
 
   the fox jumped over the lazy dog
-
 </details>
