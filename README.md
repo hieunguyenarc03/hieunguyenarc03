@@ -1,11 +1,13 @@
 # Hi, I'm (Henry) Hieu Nguyen :wave:
 
-:sparkles:Cinephile with a heart for novels, a mind sharpened by chess, a spirit lifted by badminton, and a soul soothed by cats — ever learning, ever evolving.:sparkles:
+:sparkles: **Cinephile with a heart for novels, a mind sharpened by chess, a spirit lifted by badminton, and a soul soothed by cats — ever learning, ever evolving.** :sparkles:
+
+---
 
 ## An Open Chess Tournament
 
 This is more than a tournament — it’s a celebration of every curious mind.
-Now step into the game. Move your <!-- BEGIN TURN --><!-- END TURN --> piece.
+Now step into the game. Move your **<!-- BEGIN TURN -->white<!-- END TURN -->** piece.
 
 <!-- BEGIN CHESS BOARD -->
 <!-- END CHESS BOARD -->
@@ -34,13 +36,18 @@ With a single click, your move travels through code — a GitHub Action springs 
 
 ### Credit
 This open chess tournament is built upon the work of [Marc](https://github.com/marcizhu) - adapted and reimagined with gratitude.
-If you’re curious about how the board works or wish to create your own, visit his GitHub page.
 
 Chess piece images are sourced from the [Lichess repository](https://github.com/lichess-org/lila/tree/master/public/piece).
 
-## More information about me
+---
+
+## About me
 <details>
   <summary>&#8203;</summary>
 
-  the fox jumped over the lazy dog
+  ### Quick overview
+
+  ### Learning
+
+  ### Reading
 </details>
