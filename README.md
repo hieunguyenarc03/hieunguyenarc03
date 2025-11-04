@@ -94,11 +94,11 @@ Chess piece images are sourced from the [Lichess repository](https://github.com/
   class HieuNguyen 
   {
   public:
-    std::string origin = "Vietnam";
-    std::vector<std::string> programmingLanguages = 
-    {
-      "C", "C++", "Rust"
-    };
+      std::string origin = "Vietnam";
+      std::vector<std::string> programmingLanguages = 
+      {
+          "C", "C++", "Rust"
+      };
   };
 
   ```
