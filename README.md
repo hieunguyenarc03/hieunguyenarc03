@@ -39,7 +39,7 @@ If you’re curious about how the board works or wish to create your own, visit 
 Chess piece images are sourced from the [Lichess repository](https://github.com/lichess-org/lila/tree/master/public/piece).
 
 <details>
-  <summary><h2> More information about me </h2></summary> 
+  <summary><b> More information about me </b></summary> 
 
   the fox jumped over the lazy dog
 
