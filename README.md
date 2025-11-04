@@ -79,7 +79,6 @@ With a single click, your move travels through code — a GitHub Action springs 
 
 ### Credit
 This open chess tournament is built upon the work of [Marc](https://github.com/marcizhu) - adapted and reimagined with gratitude.
-
 Chess piece images are sourced from the [Lichess repository](https://github.com/lichess-org/lila/tree/master/public/piece).
 
 ---
