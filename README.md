@@ -6,8 +6,7 @@
 
 ## An Open Chess Tournament
 
-This is more than a tournament — it’s a celebration of every curious mind.  
-Now step into the game. Move your **<!-- BEGIN TURN -->white<!-- END TURN -->** piece.
+This is more than a tournament — it’s a celebration of every curious mind. Now step into the game. Move your **<!-- BEGIN TURN -->white<!-- END TURN -->** piece.
 
 <!-- BEGIN CHESS BOARD -->
 |   | A | B | C | D | E | F | G | H |   |
