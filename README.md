@@ -7,7 +7,7 @@
 ## An Open Chess Tournament
 
 This is more than a tournament — it’s a celebration of every curious mind.
-Now step into the game. Move your **<!-- BEGIN TURN -->white<!-- END TURN -->** piece.
+Now step into the game. Move your **<!-- BEGIN TURN --><!-- END TURN -->** piece.
 
 <!-- BEGIN CHESS BOARD -->
 <!-- END CHESS BOARD -->
@@ -47,7 +47,18 @@ Chess piece images are sourced from the [Lichess repository](https://github.com/
 
   ### Quick overview
 
-  ### Learning
+  ```cpp
 
-  ### Reading
+  class HieuNguyen 
+  {
+  public:
+    std::string origin = "Vietnam";
+    std::vector<std::string> programmingLanguages = 
+    {
+      "C", "C++", "Rust"
+    };
+  };
+
+  ```
+
 </details>
