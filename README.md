@@ -6,8 +6,8 @@
 
 ## An Open Chess Tournament
 
-This is more than a tournament — it’s a celebration of every curious mind.
-Now step into the game. Move your **<!-- BEGIN TURN --><!-- END TURN -->** piece.
+This is more than a tournament — it’s a celebration of every curious mind.  
+Now step into the game. Move your **<!-- BEGIN TURN -->white<!-- END TURN -->** piece.
 
 <!-- BEGIN CHESS BOARD -->
 |   | A | B | C | D | E | F | G | H |   |
@@ -78,7 +78,7 @@ Delight in the play, then let a friend carry the next move forward.
 With a single click, your move travels through code — a GitHub Action springs to life, guiding a Python script that moves the piece, rewrites this README, and seals it all in a new commit.
 
 ### Credit
-This open chess tournament is built upon the work of [Marc](https://github.com/marcizhu) - adapted and reimagined with gratitude.
+This open chess tournament is built upon the work of [Marc](https://github.com/marcizhu) - adapted and reimagined with gratitude.  
 Chess piece images are sourced from the [Lichess repository](https://github.com/lichess-org/lila/tree/master/public/piece).
 
 ---
