@@ -94,9 +94,15 @@ Chess piece images are sourced from the [Lichess repository](https://github.com/
   {
   public:
       std::string origin = "Vietnam";
+
       std::vector<std::string> programmingLanguages = 
       {
           "C", "C++", "Rust"
+      };
+
+      std::vector<std::string> toolchain = 
+      { 
+          "ESP-IDF", "STM32CubeIDE", "PlatformIO", "KiCad", "Altium", "VS Code", "Git" 
       };
   };
 
