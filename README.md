@@ -86,7 +86,7 @@ Chess piece images are sourced from the [Lichess repository](https://github.com/
 <details>
   <summary>&#8203;</summary>
 
-  ### Quick overview
+  ### :raising_hand: Quick overview
 
   ```cpp
   
