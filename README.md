@@ -96,7 +96,7 @@ Chess piece images are sourced from the [Lichess repository](https://github.com/
       string pronouns = "he/him";
       string origin = "Vietnam";
 
-      vector<string> spokenLanguages = { "Vietnamese", "English", "Espanol" };
+      vector<string> spokenLanguages = { "Tiếng Việt", "English", "Espanol" };
       vector<string> programmingLanguages = { "C", "C++", "Rust" };
 
       vector<string> toolchain = { 
