@@ -89,23 +89,32 @@ Chess piece images are sourced from the [Lichess repository](https://github.com/
   ### Quick overview
 
   ```cpp
-
-  class HieuNguyen 
+  
+  class HieuNguyen
   {
   public:
-      std::string origin = "Vietnam";
+      string pronouns = "he/him";
+      string origin = "Vietnam";
 
-      std::vector<std::string> programmingLanguages = 
-      {
-          "C", "C++", "Rust"
+      vector<string> spokenLanguages = { "Vietnamese", "English", "Espanol" };
+      vector<string> programmingLanguages = { "C", "C++", "Rust" };
+
+      vector<string> toolchain = { 
+          "ESP-IDF", "STM32CubeIDE", "PlatformIO", 
+          "KiCad", "Altium", "VS Code", "Git" 
       };
 
-      std::vector<std::string> toolchain = 
-      { 
-          "ESP-IDF", "STM32CubeIDE", "PlatformIO", "KiCad", "Altium", "VS Code", "Git" 
-      };
+      string techCommunity = "VNXRobotics";
+
+      optional<string> currentChallenge = nullopt; // a placeholder for whatever I'm learning next
   };
 
   ```
 
+  ### :mailbox_with_mail: Reach Out
+
+  Open to collaboration, ideas, and shared journeys of creation.
+  Ping me on [Gmail](mailto:hieu.nguyenarc03@gmail.com), [WhatsApp](https://wa.me/374193460), or [LinkedIn](https://www.linkedin.com/in/hieunguyenarc03/) - let’s turn curiosity into creation.
+
 </details>
+
