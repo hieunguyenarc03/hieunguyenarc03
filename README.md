@@ -86,7 +86,7 @@ Chess piece images are sourced from the [Lichess repository](https://github.com/
 <details>
   <summary>&#8203;</summary>
 
-  ### :raising_hand: Quick overview
+  ### :chestnut: In a Nutshell
 
   ```cpp
   
@@ -110,6 +110,10 @@ Chess piece images are sourced from the [Lichess repository](https://github.com/
   };
 
   ```
+
+  ### :bookmark: Pages in Progress
+
+  ██▒▒▒▒▒▒▒▒ 26%
 
   ### :mailbox_with_mail: Reach Out
 
