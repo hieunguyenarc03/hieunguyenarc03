@@ -112,10 +112,10 @@ Chess piece images are sourced from the [Lichess repository](https://github.com/
   ```
 
   ### :bookmark: Pages in Progress
-
-  *Normal People* by Sally Rooney  
-  progress: ██▒▒▒▒▒▒▒▒ 26%
-
+  
+  **Normal People** — *Sally Rooney*  
+  `█████░░░░░░░░░░░░░░░` *26 %*
+  
   ### :mailbox_with_mail: Reach Out
 
   Open to collaboration, ideas, and shared journeys of creation.
