@@ -114,7 +114,7 @@ Chess piece images are sourced from the [Lichess repository](https://github.com/
   ### :bookmark: Pages in Progress
   
   **Normal People** — *Sally Rooney*  
-  `█████░░░░░░░░░░░░░░░` *26 %*
+  `██████░░░░░░░░░░░░░░` *31 %*
   
   ### :mailbox_with_mail: Reach Out
 
