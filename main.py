@@ -206,12 +206,13 @@ def main(issue, issue_author, repo_owner):
 
     with open('README.md', 'w') as file:
         # Write new board & list of movements
-        file.write(readme.format(
-            chess_board=markdown.board_to_markdown(gameboard),
-            moves_list=markdown.generate_moves_list(gameboard),
-            turn=('**white**' if gameboard.turn == chess.WHITE else '**black**'),
-            last_moves=last_moves,
-            top_moves=markdown.generate_top_moves()))
+        readme = readme.replace('{chess_board}', markdown.board_to_markdown(gameboard))
+        readme = readme.replace('{moves_list}', markdown.generate_moves_list(gameboard))
+        readme = readme.replace('{turn}', '**white**' if gameboard.turn == chess.WHITE else '**black**')
+        readme = readme.replace('{last_moves}', last_moves)
+        readme = readme.replace('{top_moves}', markdown.generate_top_moves())
+
+        file.write(readme)
 
     return True, ''
 

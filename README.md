@@ -1,4 +1,4 @@
-# Hi, I'm (Henry) Hieu Nguyen :wave:
+# ¡Hola!, I'm Hieu :wave:
 
 :sparkles: **Cinephile with a heart for novels, a mind sharpened by chess, a spirit lifted by badminton, and a soul soothed by cats — ever learning, ever evolving.** :sparkles:
 
@@ -97,14 +97,14 @@ Chess piece images are sourced from the [Lichess repository](https://github.com/
       string origin = "Vietnam";
 
       vector<string> spokenLanguages = { "Tiếng Việt", "English", "Espanol" };
-      vector<string> programmingLanguages = { "C", "C++", "Rust" };
+      vector<string> programmingLanguages = { "C", "C++" };
 
       vector<string> toolchain = { 
-          "ESP-IDF", "STM32CubeIDE", "PlatformIO", 
-          "KiCad", "Altium", "VS Code", "Git" 
+        "EasyEDA", "Altium", "VS Code", "Git", 
+        "ESP-IDF", "STM32CubeIDE", "PlatformIO" 
       };
 
-      string techCommunity = "VNXRobotics";
+      string techCommunity = "Mountaineers";
 
       optional<string> currentChallenge = nullopt; // a placeholder for whatever I'm learning next
   };
@@ -113,13 +113,13 @@ Chess piece images are sourced from the [Lichess repository](https://github.com/
 
   ### :bookmark: Pages in Progress
   
-  **Normal People** — *Sally Rooney*  
-  `████████░░░░░░░░░░░░` *44 %*
+  **The Hunger Games: Catching Fire** — *Suzanne Collins*  
+  `█████████████░░░░░░░` *66 %*
   
   ### :mailbox_with_mail: Reach Out
 
   Open to collaboration, ideas, and shared journeys of creation.
-  Ping me on [Gmail](mailto:hieu.nguyenarc03@gmail.com), [WhatsApp](https://wa.me/374193460), or [LinkedIn](https://www.linkedin.com/in/hieun03/) - let’s turn curiosity into creation.
+  Ping me on [Gmail](mailto:work.hieun@gmail.com), [LinkedIn](https://www.linkedin.com/in/hieun03/), or [WhatsApp](https://wa.me/374193460) - let’s turn curiosity into creation.
 
 </details>
 
